@@ -1,0 +1,22 @@
+{
+  "name": "angurlarjs",
+  "version": "1.0.0",
+  "description": "this angularjs environment",
+  "main": "angular.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertjone/Angularjs.git"
+  },
+  "keywords": [
+    "Angularjs"
+  ],
+  "author": "XiaojueGuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albertjone/Angularjs/issues"
+  },
+  "homepage": "https://github.com/albertjone/Angularjs#readme"
+}
